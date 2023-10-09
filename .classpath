@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="amazonserver/src/main/java"/>
+	<classpathentry kind="src" path="amazonserver/src/test/java"/>
+	<classpathentry kind="src" path="bestpricefinder/src/main/java"/>
+	<classpathentry kind="src" path="bestpricefinder/src/test/java"/>
+	<classpathentry kind="src" path="ebayserver/src/main/java"/>
+	<classpathentry kind="src" path="ebayserver/src/test/java"/>
+	<classpathentry kind="src" path="walmartserver/src/main/java"/>
+	<classpathentry kind="src" path="walmartserver/src/test/java"/>
+	<classpathentry kind="lib" path="amazonserver/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="bestpricefinder/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ebayserver/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="walmartserver/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
